@@ -1,0 +1,10 @@
+<div className="App">
+        <Navbar></Navbar>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Add></Add>
+        <Podstranka></Podstranka>
+        <Add2></Add2>
+        
+      </div>

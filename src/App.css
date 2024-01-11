@@ -29,3 +29,70 @@
 .small {
   font-size: 0.75rem;
 }
+
+.tlacitko {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  width: 150px;
+  height: 60px;
+  margin-left: 60px;
+  cursor: pointer;
+  
+}
+.tlacitko1 {
+  color: white;
+  margin-top: 10px;
+  background-color: red;
+  width: 70px;
+  justify-content: center;
+  height: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+
+.buttons{
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  
+}
+.container{
+  border: 2px solid black;
+  width: 300px;
+  height: 230px;
+  justify-content: center;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.pocty{
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 200px;
+}
+
+.tlacitkos{
+  background-color: green;
+  color: white;
+  margin-left: 10px;
+}
+
+.tlacitkos1{
+  background-color: red;
+  color: white;
+  margin-left: 20px;
+}
+
+.tlacitko2{
+  width: 200px;
+  color: white;
+  background-color: green;
+  margin-top: 20px;
+  font-weight: bold;
+} 
+

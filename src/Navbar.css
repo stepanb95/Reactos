@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+   
+  .navbar {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+   
+  .flags img {
+    width: 30px;
+    height: 20px;
+    margin-right: 10px;
+  }
+   
+  .logo {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+   
+  .dark-mode {
+    display: flex;
+    align-items: center;
+  }
+   
+  .dark-mode input {
+    margin-right: 5px;
+  }
+
+ .logo {
+  
+ }
